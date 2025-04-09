@@ -1,6 +1,8 @@
 # BB-101
 BB-101 Es un curso impartido en UPIICSA para enseñar desde 0 informática hasta que tu puedas crear lo que se te ocurra en la regadera
 
+Este curso tiene como finalidad introducir a los participantes al mundo de la informática, comenzando con las bases de la programación y avanzando progresivamente hacia temas más complejos como el desarrollo web y la inteligencia artificial. Apostamos por una enseñanza constructivista, con un enfoque práctico y colaborativo, donde cada participante aprende haciendo y construyendo junto a los demás.
+
 ## Eventos pasados
 
 ### 2025
