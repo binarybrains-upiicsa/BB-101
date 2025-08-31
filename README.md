@@ -26,6 +26,21 @@
 |---|---|---|
 | DAY 00 | [Scratch](https://untalbry.notion.site/DAY-00-1a07125838b9809f882edbf7c725fdbe?pvs=74) | [Recursos que te recomendamos](https://untalbry.notion.site/24f7125838b9801485d7fd7c3b85b435?v=24f7125838b9800b8861000c9fd59e51&pvs=74) | 
 
+```bash
+ ________________
+< Esto fue BB101 >
+ ----------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
+
 ## Eventos pasados
 <img width="1281" height="677" alt="Foto primera generación" src="https://github.com/user-attachments/assets/90a981fd-34a1-4856-802d-9c98acdaf0a4" />
 Primer generación BB101 25/2 
