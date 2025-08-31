@@ -16,6 +16,11 @@
 </table>
 
 
+> [!NOTE]
+> Este semestre empezamos el 2 de septiembre. El curso se llevará acabo en UPIICSA en la aula modelo de el edificio de ligeros de 15:00 - 17:00. 
+> El espacio es limitado por lo que te recomendamos que llegues temprano
+
+
 ### Recursos  
 | Día | Apuntes | Resources |
 |---|---|---|
