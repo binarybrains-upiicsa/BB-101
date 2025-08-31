@@ -1,8 +1,19 @@
 # BB-101
-BB-101 Es un curso impartido en UPIICSA para enseñar desde 0 informática hasta que tu puedas crear lo que se te ocurra en la regadera
-
-Este curso tiene como finalidad introducir a los participantes al mundo de la informática, comenzando con las bases de la programación y avanzando progresivamente hacia temas más complejos como el desarrollo web y la inteligencia artificial. Apostamos por una enseñanza constructivista, con un enfoque práctico y colaborativo, donde cada participante aprende haciendo y construyendo junto a los demás.
-
+<table>
+  <tr>   
+    <td width="60%">
+      <b>BB-101</b> es un curso impartido en UPIICSA para enseñar desde cero informática hasta que tú puedas crear lo que se te ocurra en la regadera.  
+      <br>
+      Este curso tiene como finalidad introducir a los participantes al mundo de la informática, comenzando con las bases de la programación y avanzando progresivamente hacia temas más complejos como el desarrollo web y la inteligencia artificial.  
+      <br>
+      Apostamos por una enseñanza constructivista, con un enfoque práctico y colaborativo, donde cada participante aprende haciendo y construyendo junto a los demás.
+    </td>
+    <td align="center" width="40%">
+      <img width="250" height="250" alt="Binary Brains logo oficial (2)" src="https://github.com/user-attachments/assets/ad2e8a92-23e8-49eb-b903-96b55fe13968" />
+    </td>
+ 
+  </tr>
+</table>
 
 
 ### Recursos  
